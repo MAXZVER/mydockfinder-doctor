@@ -1,0 +1,8 @@
+# Build output
+bin/
+*.pdb
+
+# Runtime files, if the exe is run from inside the repo
+*.log
+DockDoctor.ini
+backup/
